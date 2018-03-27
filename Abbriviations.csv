@@ -1,0 +1,63 @@
+Concept, 0, 1, 2
+Abbreviation, abbr, , 
+list, lst, ls, l
+sequence, seq, , 
+register, reg, , 
+internationalization, i18n, , 
+global, , , g
+dataframe, , , df
+select, , sel, 
+indexes or location of satisfied elements, , which, 
+namespace, , , ns
+identity, , , id
+manual, , , man
+
+dictionary, dict, , d
+key, , ,k
+value, , val, v
+queue, , , q
+set, , , s
+regular expression, , , re
+table, , tbl, t
+length, , len, l
+concatenate, concat, cat, +
+extend, , ext, 
+append, , , 
+expression, , exp, 
+request, , req, 
+return, , ret, 
+object, , obj, o
+percentage, , , p
+catalog, , , cat
+description, , desc, 
+
+
+class, , cls, c
+delete, , del, 
+remove, , rm, 
+make, , mk, 
+
+get first elements, , head, 
+get last elements, , tail,
+
+longtitude, long, , 
+latitude, , lat, 
+location, , loc, 
+position, , pos, 
+coordinate, , coord, 
+size, , sz, 
+
+number of elements, , , n m 
+
+function, func, fn, f
+input, , , x
+output, , , y
+
+image, , img, im
+figure, , fig, 
+background, , , bg
+foreground, , , fg
+plot, , plt, 
+library, , lib, 
+
+index, , idx, i j 

@@ -1,5 +1,8 @@
-Concept, 0, 1, 2
-Abbreviation, abbr, , 
+concept, lvl 0, lvl 1, lvl 2
+abbreviation, abbr, , 
+level, lvl, , 
+experience, exp, , 
+error, err, , 
 list, lst, ls, l
 sequence, seq, , 
 register, reg, , 
@@ -11,7 +14,6 @@ indexes or location of satisfied elements, , which,
 namespace, , , ns
 identity, , , id
 manual, , , man
-
 dictionary, dict, , d
 key, , ,k
 value, , val, v
@@ -23,14 +25,13 @@ length, , len, l
 concatenate, concat, cat, +
 extend, , ext, 
 append, , , 
-expression, , exp, 
+expression, , expr, 
 request, , req, 
 return, , ret, 
 object, , obj, o
 percentage, , , p
 catalog, , , cat
 description, , desc, 
-
 
 class, , cls, c
 delete, , del, 

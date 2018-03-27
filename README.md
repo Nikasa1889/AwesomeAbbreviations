@@ -1,7 +1,7 @@
 # AwesomeAbbreviations
 This is an effort to make symbol naming more consistent. It is highly inspired by the [fast.ai style](https://github.com/fastai/fastai/blob/master/docs/style.md).
 
-Like the MIT Professor [todo] once say: when we put a name on concept, we have a power over it. And I believe the short the name, the
+Like the MIT Professor *Patrick Henry Winston* once said: when we put a name on a concept, we have a power over it. And I believe the short the name, the
 more power we have. To achieve that, we use abbreviation.
 
 We should thing about abbreviation as **a way of compression**. We want to compress name of a concept
@@ -18,3 +18,15 @@ some are used only in a very domain-specific context (like `nll` for negative-lo
 
 This project provides a curated lists of common abbreviations at different compression level for common concepts.
 When the concept is context-dependent, it is listed in its seperate context.
+
+Generic:
+
+Machine Learning:
+
+Computer Vision:
+
+Data Visualization:
+
+Data Manipulation:
+
+Networking:

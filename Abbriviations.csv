@@ -1,6 +1,8 @@
 concept, lvl 0, lvl 1, lvl 2
 abbreviation, abbr, , 
 level, lvl, , 
+good condition, ok, , 
+information, info, , 
 experience, exp, , 
 error, err, , 
 list, lst, ls, l
@@ -10,7 +12,7 @@ internationalization, i18n, ,
 global, , , g
 dataframe, , , df
 select, , sel, 
-indexes or location of satisfied elements, , which, 
+location of ok elements, , which, 
 namespace, , , ns
 identity, , , id
 manual, , , man

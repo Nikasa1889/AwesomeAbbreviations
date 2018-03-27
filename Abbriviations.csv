@@ -30,6 +30,8 @@ append, , ,
 expression, , expr, 
 request, , req, 
 return, , ret, 
+link, lnk, , 
+
 object, , obj, o
 percentage, , , p
 catalog, , , cat

@@ -19,14 +19,58 @@ some are used only in a very domain-specific context (like `nll` for negative-lo
 This project provides a curated lists of common abbreviations at different compression level for common concepts.
 When the concept is context-dependent, it is listed in its seperate context.
 
-Generic:
-
-Machine Learning:
-
-Computer Vision:
-
-Data Visualization:
-
-Data Manipulation:
-
-Networking:
+| Concept                                   | lvl 0  | lvl 1 | lvl 2 |
+|-------------------------------------------|--------|-------|-------|
+| abbreviation                              | abbr   |       |       |
+| list                                      | lst    | ls    | l     |
+| sequence                                  | seq    |       |       |
+| register                                  | reg    |       |       |
+| internationalization                      | i18n   |       |       |
+| global                                    |        |       | g     |
+| dataframe                                 |        |       | df    |
+| select                                    |        | sel   |       |
+| location of ok elements                   |        | which |       |
+| namespace                                 |        |       | ns    |
+| identity                                  |        |       | id    |
+| manual                                    |        |       | man   |
+| dictionary                                | dict   |       | d     |
+| key                                       |        |       | k     |
+| value                                     |        | val   | v     |
+| queue                                     |        |       | q     |
+| set                                       |        |       | s     |
+| regular expression                        |        |       | re    |
+| table                                     |        | tbl   | t     |
+| length                                    |        | len   | l     |
+| concatenate                               | concat | cat   | +     |
+| extend                                    |        | ext   |       |
+| append                                    |        |       |       |
+| expression                                |        | exp   |       |
+| request                                   |        | req   |       |
+| return                                    |        | ret   |       |
+| object                                    |        | obj   | o     |
+| percentage                                |        |       | p     |
+| catalog                                   |        |       | cat   |
+| description                               |        | desc  |       |
+| class                                     |        | cls   | c     |
+| delete                                    |        | del   |       |
+| remove                                    |        | rm    |       |
+| make                                      |        | mk    |       |
+| get first elements                        |        | head  |       |
+| get last elements                         |        | tail  |       |
+| longtitude                                | long   |       |       |
+| latitude                                  |        | lat   |       |
+| location                                  |        | loc   |       |
+| position                                  |        | pos   |       |
+| coordinate                                |        | coord |       |
+| size                                      |        | sz    |       |
+| number of elements                        |        |       | n m   |
+| function                                  | func   | fn    | f     |
+| input                                     |        |       | x     |
+| output                                    |        |       | y     |
+| image                                     |        | img   | im    |
+| figure                                    |        | fig   |       |
+| background                                |        |       | bg    |
+| foreground                                |        |       | fg    |
+| plot                                      |        | plt   |       |
+| library                                   |        | lib   |       |
+| index                                     |        | idx   | i j   |

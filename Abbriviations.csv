@@ -30,6 +30,17 @@ append, , ,
 expression, , expr, 
 request, , req, 
 return, , ret, 
+message, , msg, 
+predict, , pred, 
+test, , tst,
+train, , trn, 
+time-series, , ts, 
+time, , , t
+frequency, , freq, f
+horizon, , , h
+
+to, , , 2
+
 link, lnk, , 
 
 object, , obj, o
